@@ -1,0 +1,8 @@
+C:\Users\berfin çoban\source\repos\KAMP-İntro\KAMP-İntro\bin\Debug\KAMP-İntro.exe.config
+C:\Users\berfin çoban\source\repos\KAMP-İntro\KAMP-İntro\bin\Debug\KAMP-İntro.exe
+C:\Users\berfin çoban\source\repos\KAMP-İntro\KAMP-İntro\bin\Debug\KAMP-İntro.pdb
+C:\Users\berfin çoban\source\repos\KAMP-İntro\KAMP-İntro\obj\Debug\KAMP-İntro.csproj.AssemblyReference.cache
+C:\Users\berfin çoban\source\repos\KAMP-İntro\KAMP-İntro\obj\Debug\KAMP-İntro.csproj.SuggestedBindingRedirects.cache
+C:\Users\berfin çoban\source\repos\KAMP-İntro\KAMP-İntro\obj\Debug\KAMP-İntro.csproj.CoreCompileInputs.cache
+C:\Users\berfin çoban\source\repos\KAMP-İntro\KAMP-İntro\obj\Debug\KAMP-İntro.exe
+C:\Users\berfin çoban\source\repos\KAMP-İntro\KAMP-İntro\obj\Debug\KAMP-İntro.pdb

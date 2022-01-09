@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5bd0ae60-f261-4eba-8bd5-8f700c4083b6": {
+      "ProjectGuid": "5bd0ae60-f261-4eba-8bd5-8f700c4083b6",
+      "DisplayName": "KAMP-İntro",
+      "ColorIndex": 0
+    },
+    "61eca052-0eab-43e1-addc-b3abf05a3a79": {
+      "ProjectGuid": "61eca052-0eab-43e1-addc-b3abf05a3a79",
+      "DisplayName": "Methods",
+      "ColorIndex": 1
+    },
+    "e23579d9-9a2d-4131-9f3b-711cf5625f09": {
+      "ProjectGuid": "e23579d9-9a2d-4131-9f3b-711cf5625f09",
+      "DisplayName": "DegerveReferansTıpler",
+      "ColorIndex": 2
+    },
+    "f539b7a0-5a05-4e62-8429-06c4cf088426": {
+      "ProjectGuid": "f539b7a0-5a05-4e62-8429-06c4cf088426",
+      "DisplayName": "OOP1",
+      "ColorIndex": 3
+    },
+    "abe0c098-7eef-4b3b-a457-412e3b549014": {
+      "ProjectGuid": "abe0c098-7eef-4b3b-a457-412e3b549014",
+      "DisplayName": "Colections",
+      "ColorIndex": 4
+    },
+    "0e3da70e-4e94-4c5c-8cd7-20f940ab9bd6": {
+      "ProjectGuid": "0e3da70e-4e94-4c5c-8cd7-20f940ab9bd6",
+      "DisplayName": "Dictıonary",
+      "ColorIndex": 5
+    },
+    "8bfe6432-fbcd-4a4d-b5d4-44dc601a0a7a": {
+      "ProjectGuid": "8bfe6432-fbcd-4a4d-b5d4-44dc601a0a7a",
+      "DisplayName": "OOP3",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

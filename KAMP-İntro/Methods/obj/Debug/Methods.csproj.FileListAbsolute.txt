@@ -1,0 +1,8 @@
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Methods\bin\Debug\Methods.exe.config
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Methods\bin\Debug\Methods.exe
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Methods\bin\Debug\Methods.pdb
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Methods\obj\Debug\Methods.exe
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Methods\obj\Debug\Methods.pdb

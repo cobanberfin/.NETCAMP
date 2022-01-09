@@ -1,0 +1,8 @@
+C:\Users\berfin çoban\source\repos\GAME\GAME\bin\Debug\GAME.exe.config
+C:\Users\berfin çoban\source\repos\GAME\GAME\bin\Debug\GAME.exe
+C:\Users\berfin çoban\source\repos\GAME\GAME\bin\Debug\GAME.pdb
+C:\Users\berfin çoban\source\repos\GAME\GAME\obj\Debug\GAME.csproj.AssemblyReference.cache
+C:\Users\berfin çoban\source\repos\GAME\GAME\obj\Debug\GAME.csproj.SuggestedBindingRedirects.cache
+C:\Users\berfin çoban\source\repos\GAME\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+C:\Users\berfin çoban\source\repos\GAME\GAME\obj\Debug\GAME.exe
+C:\Users\berfin çoban\source\repos\GAME\GAME\obj\Debug\GAME.pdb

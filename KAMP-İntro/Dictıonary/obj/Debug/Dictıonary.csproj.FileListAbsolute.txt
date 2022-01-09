@@ -1,0 +1,8 @@
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Dictıonary\bin\Debug\Dictıonary.exe.config
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Dictıonary\bin\Debug\Dictıonary.exe
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Dictıonary\bin\Debug\Dictıonary.pdb
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Dictıonary\obj\Debug\Dictıonary.csproj.AssemblyReference.cache
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Dictıonary\obj\Debug\Dictıonary.csproj.SuggestedBindingRedirects.cache
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Dictıonary\obj\Debug\Dictıonary.csproj.CoreCompileInputs.cache
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Dictıonary\obj\Debug\Dictıonary.exe
+C:\Users\berfin çoban\source\repos\KAMP-İntro\Dictıonary\obj\Debug\Dictıonary.pdb
